@@ -1,0 +1,24 @@
+Tarefa,Tipo,Dado
+Abrir Iniciar do Windows,tecla,win
+Aguardar 1 segundo,espera,1
+Abrir navegador,texto,chrome
+Aguardar 1 segundo,espera,1
+Pressionar Enter,tecla,enter
+Aguardar 3 segundos,espera,3
+Pesquisar,texto,Analise e Desenvolvimento de Sistemas
+Pressionar Enter,tecla,enter
+Aguardar 3 segundos,espera,3
+Abrir nova aba,hotkey,ctrl+t
+Aguardar 3 segundos,espera,3
+Digitar outro site,texto,https://account.impacta.edu.br/aluno/default.php
+Pressionar Enter,tecla,enter
+Aguardar 3 segundos,espera,3
+Abrir nova aba,hotkey,ctrl+t
+Aguardar 3 segundos,espera,3
+Pesquisar,texto,Arara Azul
+Aguardar 3 segundos,espera,1
+Pressionar Enter,tecla,enter
+Aguardar 3 segundos,espera,3
+ClicarGitHub,click,"(x=1201, y=342)"
+Aguardar 3 segundos,espera,3
+ClicarGitHub,click,"(x=1396, y=554)"
