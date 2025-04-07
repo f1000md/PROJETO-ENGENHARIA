@@ -1,4 +1,4 @@
-﻿# PROJETO-ENGENHARIA
+﻿# PROJETO-ROBÓTICA
 # 🤖 Automação de Tarefas com PyAutoGUI e Python
 
 Este projeto realiza **automação de tarefas repetitivas no computador** com base em um arquivo `.csv`, utilizando a biblioteca `pyautogui`. O sistema lê instruções, executa ações como digitação, cliques e atalhos, e gera um relatório automático da execução.
